@@ -3,9 +3,13 @@ https://docs.google.com/document/d/1rCBpuSuxZo-wzrEJIo48pxEfikGwf6Fm32NUwzkoQcY/
 
 
  Project Name: DIAPREDICT
+ 
+ 
            Github repository :  https://github.com/tishachawla-jg/tishachawla-jg.dia
+           
            Name: Tisha Chawla
-            Registration no. 20BCE0284
+           
+           Registration no. 20BCE0284
 
 1. What is your role?
 I predicted the model for diabetes using various algorithms in python and deployed it using flask.
